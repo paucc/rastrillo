@@ -1,6 +1,6 @@
-name: Name
+name: pau valiente
 -
-profession: Graphic Designer
+subtitle: cosas en venta
 -
 email: 
-<hi@yourdomain.com>
+<pauvaliente@gmail.com>
