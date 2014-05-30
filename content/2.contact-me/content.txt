@@ -3,5 +3,6 @@ title: Información de contacto
 content:
 Si te interesa alguno de los items en venta, ponte en contacto conmigo.
 
-Email: <hi@yourdomain.com>
-Twitter: (@paucc)[https://twitter.com/paucc/]
+Email: <pauvaliente@gmail.com>
+
+Twitter: [@paucc](https://twitter.com/paucc/)
