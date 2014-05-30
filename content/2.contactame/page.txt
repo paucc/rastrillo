@@ -1,0 +1,4 @@
+title: Datos de contacto
+-
+content:
+Si te interesa alguna de las cosas que vendo, ponte en contacto conmigo por email: <pauvaliente@gmail.com> o por twitter: <@paucc>
