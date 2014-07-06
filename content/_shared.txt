@@ -1,6 +1,0 @@
-name: pau valiente
--
-subtitle: cosas en venta
--
-email: 
-<pauvaliente@gmail.com>
