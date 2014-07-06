@@ -3,4 +3,6 @@
 
 Lista de las cosas que voy poniendo en venta.
 
-(http://pau.cc/rastrillo/)[http://pau.cc/rastrillo/]
+http://paucc.github.io/rastrillo/
+
+mirror: http://pau.cc/rastrillo/
