@@ -1,0 +1,28 @@
+<krpano version="1.18">
+	
+	<!-- view settings -->
+	<view hlookat="0" vlookat="0" maxpixelzoom="1.0" fovmax="150" limitview="auto" />
+	
+
+	<preview url="caravana-ventana.tiles/preview.jpg" />
+
+	<image type="CUBE" multires="true" tilesize="512">
+		<level tiledimagewidth="2556" tiledimageheight="2556">
+			<cube url="caravana-ventana.tiles/mres_%s/l3/%v/l3_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="1278" tiledimageheight="1278">
+			<cube url="caravana-ventana.tiles/mres_%s/l2/%v/l2_%s_%v_%h.jpg" />
+		</level>
+		<level tiledimagewidth="640" tiledimageheight="640">
+			<cube url="caravana-ventana.tiles/mres_%s/l1/%v/l1_%s_%v_%h.jpg" />
+		</level>
+		<mobile>
+			<cube url="caravana-ventana.tiles/mobile_%s.jpg" />
+		</mobile>
+	</image>
+	<autorotate enabled="true"
+            waittime="1.0"
+            speed="10.0"
+            />
+
+</krpano>
