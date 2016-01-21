@@ -1,6 +1,10 @@
 
 .sold {
-	opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+	opacity: 0.2;
+    filter: alpha(opacity=20); /* For IE8 and earlier */
 	text-decoration: line-through;
+	-webkit-filter: grayscale(1);
+	-webkit-filter: grayscale(100%);
+	filter: gray;
+	filter: grayscale(100%);
 }
