@@ -1,5 +1,4 @@
-#Mayo 2014
-#Cosas en venta
+## Cosas en venta
 
 Lista de las cosas que voy poniendo en venta.
 
